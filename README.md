@@ -1,4 +1,4 @@
-# COVID-19-Outcome-Prediction
+# COVID-19 Outcome Prediction
 finding the optimal hyperparameters for different classifiers with grid search and compare the performance
 
 ## Project Description
