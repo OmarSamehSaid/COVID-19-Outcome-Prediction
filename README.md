@@ -1,5 +1,5 @@
 # COVID-19-Outcome-Prediction
-finding the optimal hyperparameters for different classifiers and compare the performance
+finding the optimal hyperparameters for different classifiers with grid search and compare the performance
 
 ## Project Description
 The data used in this project will help to identify whether a person is going to recover from 
